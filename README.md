@@ -1,4 +1,4 @@
-# 🎮 Jogo Pokémon - Catch 'em All!
+# 🎮 Jogo Pokémon 
 
 Este é um projeto de um jogo de busca e velocidade desenvolvido durante meus estudos de Front-End. O objetivo é testar os reflexos do jogador, que deve encontrar e clicar nos personagens que aparecem aleatoriamente na tela.
 
